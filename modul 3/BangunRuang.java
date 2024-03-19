@@ -1,3 +1,5 @@
+
+
 public class BangunRuang {
     private String name;
 
@@ -25,3 +27,6 @@ public class BangunRuang {
         return name;
     }
 }
+
+
+

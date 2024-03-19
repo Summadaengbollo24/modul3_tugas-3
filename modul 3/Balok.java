@@ -14,9 +14,9 @@ public class Balok extends BangunRuang {
         this.panjang = panjang;
     }
 
-     public double getPanjang () {
+    public double getPanjang () {
         return panjang;
-     }
+    }
 
     public void setLebar (double lebar) {
         this.lebar = lebar;
